@@ -1,6 +1,6 @@
 # KCC2021
-This is a solution for the Knapp Coding Contest 2021
-The solution achieves a score(cost) of 490032. (smaller is better):
+This is a solution for the Knapp Coding Contest 2021.
+The solution achieves a score(cost) of 490.032. (smaller is better):
 ```
   ----------------------------- : ------------ | ----------------------
       what                      :       costs  |  (details: count,...)
